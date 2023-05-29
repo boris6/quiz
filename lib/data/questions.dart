@@ -2,54 +2,183 @@ import 'package:quiz/models/quiz_question.dart';
 
 const questions = [
   QuizQuestion(
-    'What are the main building blocks of Flutter UIs?',
+    'What is the name of Ross and Monica\'s sister?',
     [
-      'Widgets',
-      'Components',
-      'Blocks',
-      'Functions',
-    ],
-  ),
-  QuizQuestion('How are Flutter UIs built?', [
-    'By combining widgets in code',
-    'By combining widgets in a visual editor',
-    'By defining widgets in config files',
-    'By using XCode for iOS and Android Studio for Android',
-  ]),
-  QuizQuestion(
-    'What\'s the purpose of a StatefulWidget?',
-    [
-      'Update UI as data changes',
-      'Update data as UI changes',
-      'Ignore data changes',
-      'Render UI that does not depend on data',
+      'Rachel',
+      'Phoebe',
+      'Emily',
+      'Jill',
     ],
   ),
   QuizQuestion(
-    'Which widget should you try to use more often: StatelessWidget or StatefulWidget?',
+    'What is Chandler\'s last name?',
     [
-      'StatelessWidget',
-      'StatefulWidget',
-      'Both are equally good',
-      'None of the above',
+      'Bing',
+      'Geller',
+      'Tribbiani',
+      'Green',
     ],
   ),
   QuizQuestion(
-    'What happens if you change data in a StatelessWidget?',
+    'What is the name of Ross\'s second wife?',
     [
-      'The UI is not updated',
-      'The UI is updated',
-      'The closest StatefulWidget is updated',
-      'Any nested StatefulWidgets are updated',
+      'Emily',
+      'Carol',
+      'Janice',
+      'Susan',
     ],
   ),
   QuizQuestion(
-    'How should you update data inside of StatefulWidgets?',
+    'What is the name of Chandler\'s annoying ex-girlfriend?',
     [
-      'By calling setState()',
-      'By calling updateData()',
-      'By calling updateUI()',
-      'By calling updateState()',
+      'Janice',
+      'Monica',
+      'Rachel',
+      'Phoebe',
     ],
   ),
+  QuizQuestion(
+    'Which character is a paleontologist?',
+    [
+      'Ross',
+      'Joey',
+      'Chandler',
+      'Phoebe',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Phoebe\'s most popular song?',
+    [
+      'Smelly Cat',
+      'Regina Phalange',
+      'Sticky Shoes',
+      'My Sandwich',
+    ],
+  ),
+  QuizQuestion(
+    'Which character famously said, "We were on a break!"?',
+    [
+      'Ross',
+      'Chandler',
+      'Joey',
+      'Monica',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Joey\'s stuffed penguin?',
+    [
+      'Hugsy',
+      'Waddles',
+      'Mr. Penguin',
+      'Penny',
+    ],
+  ),
+  QuizQuestion(
+    'What is Monica\'s biggest pet peeve?',
+    [
+      'A messy apartment',
+      'Chewing loudly',
+      'Being late',
+      'Dirty dishes',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Joey\'s famous catchphrase?',
+    [
+      'How you doin\'?',
+      'We were on a break!',
+      'Oh. My. God.',
+      'Could I be wearing any more clothes?',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Rachel\'s daughter?',
+    [
+      'Emma',
+      'Lily',
+      'Sophie',
+      'Phoebe',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Ross\'s son?',
+    [
+      'Ben',
+      'Joey',
+      'Mike',
+      'David',
+    ],
+  ),
+  QuizQuestion(
+    'What does Monica\'s dad call her instead of her real name?',
+    [
+      'Pumpkin',
+      'Sweetheart',
+      'Cupcake',
+      'Princess',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of the coffee shop the Friends frequently visit?',
+    [
+      'Central Perk',
+      'Central Park',
+      'Coffee Central',
+      'Perk Place',
+    ],
+  ),
+  QuizQuestion(
+    'What does Joey never share?',
+    [
+      'Food',
+      'Money',
+      'Clothes',
+      'Secrets',
+    ],
+  ),
+  QuizQuestion(
+    'Which character is a masseuse?',
+    [
+      'Phoebe',
+      'Monica',
+      'Rachel',
+      'Janice',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Ross and Monica\'s dog?',
+    [
+      'Chi-Chi',
+      'Fluffy',
+      'Marcel',
+      'Lassie',
+    ],
+  ),
+  QuizQuestion(
+    'What is Chandler\'s job?',
+    [
+      'Transponster',
+      'Actor',
+      'Chef',
+      'Paleontologist',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Phoebe\'s husband?',
+    [
+      'Mike',
+      'David',
+      'Barry',
+      'Eddie',
+    ],
+  ),
+  QuizQuestion(
+    'What is the name of Ross and Monica\'s mother?',
+    [
+      'Judy',
+      'Carol',
+      'Janice',
+      'Susan',
+    ],
+  )
 ];

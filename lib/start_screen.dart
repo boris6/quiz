@@ -20,7 +20,7 @@ class StartScreen extends StatelessWidget {
             ),
           ),
           Text(
-            'Learn Flutter the fun way!',
+            'Welcome to Friends trivia quiz!',
             style: GoogleFonts.lato(
               color: const Color.fromARGB(211, 255, 255, 255),
               fontSize: 24,

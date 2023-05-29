@@ -4,19 +4,19 @@ const questions = [
   QuizQuestion(
     'What is the name of Ross and Monica\'s sister?',
     [
-      'Rachel',
+      'Amy',
       'Phoebe',
       'Emily',
       'Jill',
     ],
   ),
   QuizQuestion(
-    'What is Chandler\'s last name?',
+    'What is the name of Joey\'s stuffed penguin?',
     [
-      'Bing',
-      'Geller',
-      'Tribbiani',
-      'Green',
+      'Hugsy',
+      'Waddles',
+      'Mr. Penguin',
+      'Penny',
     ],
   ),
   QuizQuestion(
@@ -65,12 +65,12 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'What is the name of Joey\'s stuffed penguin?',
+    'What is Chandler\'s last name?',
     [
-      'Hugsy',
-      'Waddles',
-      'Mr. Penguin',
-      'Penny',
+      'Bing',
+      'Geller',
+      'Tribbiani',
+      'Green',
     ],
   ),
   QuizQuestion(
@@ -157,7 +157,7 @@ const questions = [
   QuizQuestion(
     'What is Chandler\'s job?',
     [
-      'Transponster',
+      'Statistical Analysis and Data Reconfiguration',
       'Actor',
       'Chef',
       'Paleontologist',
